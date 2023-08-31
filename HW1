@@ -1,0 +1,18 @@
+# def calculate_triangle_area(height, base):
+#     area = 0.5 * height * base
+#     return area
+
+# height = 13.66
+# base = 245.54
+# triangle_area = calculate_triangle_area(height, base)
+# print(f"{triangle_area}")
+
+
+
+
+# user_input= input("assign valiue for x")
+# x= user_integer= int(user_input)
+# y=2.54
+# x*=y
+# print("result is:", x)
+
