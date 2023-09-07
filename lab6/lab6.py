@@ -31,5 +31,15 @@ for i in range(5):
         break
      print(i)
 
+x = 5
+while x%2:
+     print('Odd')
+     x+=1
 
-while 
+
+
+#Do while
+while True:
+     x= int(input('Enter positive number:'))
+    if x>0:
+    break
