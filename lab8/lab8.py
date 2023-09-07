@@ -6,3 +6,4 @@ ada = {
         'country':'Bulgaria'
 }
 print(ada)
+print(ada.get('town'))
